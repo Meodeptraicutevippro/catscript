@@ -2285,7 +2285,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.5, 10, 0, 10) 
 ImageButton.AnchorPoint = Vector2.new(0.5, 0) 
 ImageButton.Size = UDim2.new(0, 40, 0, 40)
-ImageButton.Image = "rbxassetid://18149215390"
+ImageButton.Image = "rbxassetid://122026336968173"
 
 UICorner.CornerRadius = UDim.new(1, 0) 
 UICorner.Parent = ImageButton
@@ -2344,7 +2344,7 @@ local Window = Fluent:CreateWindow({
     Title = "CatScript | Fan Cat",
     SubTitle = " By Meodzs1vn",
     TabWidth = 100,
-    Size = UDim2.fromOffset(400, 280),
+    Size = UDim2.fromOffset(255, 0, 111),
     Acrylic = false, -- The blur may be detectable, setting this to false disables blur entirely
     Theme = "Amethyst",
     MinimizeKey = Enum.KeyCode.LeftControl -- Used when theres no MinimizeKeybind
